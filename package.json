@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
-    "compress-create-react-app": "^1.2.1"
+    "compress-create-react-app": "^1.2.1",
+    "serve": "^13.0.2"
   }
 }
